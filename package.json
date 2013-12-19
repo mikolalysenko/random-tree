@@ -1,0 +1,27 @@
+{
+  "name": "random-tree",
+  "version": "0.0.0",
+  "description": "Generates a random tree",
+  "main": "tree.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/random-tree.git"
+  },
+  "keywords": [
+    "random",
+    "tree",
+    "generator"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/random-tree/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/random-tree"
+}
